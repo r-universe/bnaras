@@ -1,0 +1,30 @@
+[
+  {
+    "package": "ASSISTant",
+    "oncran": true
+  },
+  {
+    "package": "bcaboot",
+    "oncran": true
+  },
+  {
+    "package": "cubature",
+    "oncran": true
+  },
+  {
+    "package": "deconvolveR",
+    "oncran": true
+  },
+  {
+    "package": "ECOSolveR",
+    "oncran": true
+  },
+  {
+    "package": "homomorpheR",
+    "oncran": true
+  },
+  {
+    "package": "PMA",
+    "oncran": true
+  }
+]
