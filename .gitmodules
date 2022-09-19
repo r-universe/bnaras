@@ -18,6 +18,11 @@
 	url = https://github.com/bnaras/cubature
 	shallow = true
 	registered = true
+[submodule "deconvolveR"]
+	path = deconvolveR
+	url = https://github.com/bnaras/deconvolver
+	shallow = true
+	registered = true
 [submodule "ECOSolveR"]
 	path = ECOSolveR
 	url = https://github.com/bnaras/ecosolver

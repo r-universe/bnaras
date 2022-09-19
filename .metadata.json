@@ -12,6 +12,10 @@
     "oncran": true
   },
   {
+    "package": "deconvolveR",
+    "oncran": true
+  },
+  {
     "package": "ECOSolveR",
     "oncran": true
   },
