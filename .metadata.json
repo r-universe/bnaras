@@ -1,6 +1,6 @@
 [
   {
-    "package": "ASSISTant",
+    "package": "PMA",
     "oncran": true
   },
   {
@@ -8,11 +8,11 @@
     "oncran": true
   },
   {
-    "package": "cubature",
+    "package": "homomorpheR",
     "oncran": true
   },
   {
-    "package": "deconvolveR",
+    "package": "ASSISTant",
     "oncran": true
   },
   {
@@ -20,11 +20,11 @@
     "oncran": true
   },
   {
-    "package": "homomorpheR",
+    "package": "deconvolveR",
     "oncran": true
   },
   {
-    "package": "PMA",
+    "package": "cubature",
     "oncran": true
   }
 ]
