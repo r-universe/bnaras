@@ -1,6 +1,6 @@
 [
   {
-    "package": "PMA",
+    "package": "ASSISTant",
     "oncran": true
   },
   {
@@ -8,15 +8,7 @@
     "oncran": true
   },
   {
-    "package": "homomorpheR",
-    "oncran": true
-  },
-  {
-    "package": "ASSISTant",
-    "oncran": true
-  },
-  {
-    "package": "ECOSolveR",
+    "package": "cubature",
     "oncran": true
   },
   {
@@ -24,7 +16,15 @@
     "oncran": true
   },
   {
-    "package": "cubature",
+    "package": "ECOSolveR",
+    "oncran": true
+  },
+  {
+    "package": "homomorpheR",
+    "oncran": true
+  },
+  {
+    "package": "PMA",
     "oncran": true
   }
 ]

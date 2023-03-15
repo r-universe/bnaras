@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "PMA"]
-	path = PMA
-	url = https://github.com/bnaras/pma
+[submodule "ASSISTant"]
+	path = ASSISTant
+	url = https://github.com/bnaras/assistant
 	shallow = true
 	registered = true
 [submodule "bcaboot"]
@@ -13,19 +13,9 @@
 	url = https://github.com/bnaras/bcaboot
 	shallow = true
 	registered = true
-[submodule "homomorpheR"]
-	path = homomorpheR
-	url = https://github.com/bnaras/homomorpher
-	shallow = true
-	registered = true
-[submodule "ASSISTant"]
-	path = ASSISTant
-	url = https://github.com/bnaras/assistant
-	shallow = true
-	registered = true
-[submodule "ECOSolveR"]
-	path = ECOSolveR
-	url = https://github.com/bnaras/ecosolver
+[submodule "cubature"]
+	path = cubature
+	url = https://github.com/bnaras/cubature
 	shallow = true
 	registered = true
 [submodule "deconvolveR"]
@@ -33,8 +23,18 @@
 	url = https://github.com/bnaras/deconvolver
 	shallow = true
 	registered = true
-[submodule "cubature"]
-	path = cubature
-	url = https://github.com/bnaras/cubature
+[submodule "ECOSolveR"]
+	path = ECOSolveR
+	url = https://github.com/bnaras/ecosolver
+	shallow = true
+	registered = true
+[submodule "homomorpheR"]
+	path = homomorpheR
+	url = https://github.com/bnaras/homomorpher
+	shallow = true
+	registered = true
+[submodule "PMA"]
+	path = PMA
+	url = https://github.com/bnaras/pma
 	shallow = true
 	registered = true
