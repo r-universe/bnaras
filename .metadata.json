@@ -4,7 +4,19 @@
     "oncran": true
   },
   {
+    "package": "ASSISTant",
+    "oncran": true
+  },
+  {
     "package": "bcaboot",
+    "oncran": true
+  },
+  {
+    "package": "bcaboot",
+    "oncran": true
+  },
+  {
+    "package": "cubature",
     "oncran": true
   },
   {
@@ -16,7 +28,27 @@
     "oncran": true
   },
   {
+    "package": "deconvolveR",
+    "oncran": true
+  },
+  {
+    "package": "distcomp",
+    "oncran": true
+  },
+  {
+    "package": "distcomp",
+    "oncran": true
+  },
+  {
     "package": "ECOSolveR",
+    "oncran": true
+  },
+  {
+    "package": "ECOSolveR",
+    "oncran": true
+  },
+  {
+    "package": "homomorpheR",
     "oncran": true
   },
   {
