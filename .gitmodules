@@ -8,6 +8,11 @@
 	url = https://github.com/bnaras/assistant
 	shallow = true
 	registered = true
+[submodule "banditpam"]
+	path = banditpam
+	url = https://github.com/cran/banditpam
+	shallow = true
+	registered = true
 [submodule "bcaboot"]
 	path = bcaboot
 	url = https://github.com/bnaras/bcaboot
@@ -36,6 +41,16 @@
 [submodule "homomorpheR"]
 	path = homomorpheR
 	url = https://github.com/bnaras/homomorpher
+	shallow = true
+	registered = true
+[submodule "multiview"]
+	path = multiview
+	url = https://github.com/cran/multiview
+	shallow = true
+	registered = true
+[submodule "osqp"]
+	path = osqp
+	url = https://github.com/cran/osqp
 	shallow = true
 	registered = true
 [submodule "PMA"]
