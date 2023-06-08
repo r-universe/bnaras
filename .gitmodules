@@ -18,6 +18,11 @@
 	url = https://github.com/bnaras/bcaboot
 	shallow = true
 	registered = true
+[submodule "conTree"]
+	path = conTree
+	url = https://github.com/bnaras/contree
+	shallow = true
+	registered = true
 [submodule "cubature"]
 	path = cubature
 	url = https://github.com/bnaras/cubature
