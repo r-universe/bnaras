@@ -1,65 +1,40 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "ASSISTant"]
 	path = ASSISTant
 	url = https://github.com/bnaras/assistant
-	shallow = true
-	registered = true
 [submodule "banditpam"]
 	path = banditpam
 	url = https://github.com/cran/banditpam
-	shallow = true
-	registered = true
 [submodule "bcaboot"]
 	path = bcaboot
 	url = https://github.com/bnaras/bcaboot
-	shallow = true
-	registered = true
 [submodule "conTree"]
 	path = conTree
 	url = https://github.com/bnaras/contree
-	shallow = true
-	registered = true
 [submodule "cubature"]
 	path = cubature
 	url = https://github.com/bnaras/cubature
-	shallow = true
-	registered = true
 [submodule "deconvolveR"]
 	path = deconvolveR
 	url = https://github.com/bnaras/deconvolver
-	shallow = true
-	registered = true
 [submodule "distcomp"]
 	path = distcomp
 	url = https://github.com/bnaras/distcomp
-	shallow = true
-	registered = true
 [submodule "ECOSolveR"]
 	path = ECOSolveR
 	url = https://github.com/bnaras/ecosolver
-	shallow = true
-	registered = true
 [submodule "homomorpheR"]
 	path = homomorpheR
 	url = https://github.com/bnaras/homomorpher
-	shallow = true
-	registered = true
 [submodule "multiview"]
 	path = multiview
 	url = https://github.com/cran/multiview
-	shallow = true
-	registered = true
 [submodule "osqp"]
 	path = osqp
 	url = https://github.com/cran/osqp
-	shallow = true
-	registered = true
 [submodule "PMA"]
 	path = PMA
 	url = https://github.com/bnaras/pma
-	shallow = true
-	registered = true
