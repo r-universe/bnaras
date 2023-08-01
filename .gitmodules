@@ -5,6 +5,12 @@
 [submodule "ASSISTant"]
 	path = ASSISTant
 	url = https://github.com/bnaras/assistant
+[submodule "ECOSolveR"]
+	path = ECOSolveR
+	url = https://github.com/bnaras/ecosolver
+[submodule "PMA"]
+	path = PMA
+	url = https://github.com/bnaras/pma
 [submodule "banditpam"]
 	path = banditpam
 	url = https://github.com/cran/banditpam
@@ -23,9 +29,6 @@
 [submodule "distcomp"]
 	path = distcomp
 	url = https://github.com/bnaras/distcomp
-[submodule "ECOSolveR"]
-	path = ECOSolveR
-	url = https://github.com/bnaras/ecosolver
 [submodule "homomorpheR"]
 	path = homomorpheR
 	url = https://github.com/bnaras/homomorpher
@@ -35,6 +38,3 @@
 [submodule "osqp"]
 	path = osqp
 	url = https://github.com/cran/osqp
-[submodule "PMA"]
-	path = PMA
-	url = https://github.com/bnaras/pma
