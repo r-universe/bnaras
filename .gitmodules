@@ -35,3 +35,6 @@
 [submodule "multiview"]
 	path = multiview
 	url = https://github.com/cran/multiview
+[submodule "pamr"]
+	path = pamr
+	url = https://github.com/bnaras/pamr
