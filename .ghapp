@@ -1,0 +1,10 @@
+{
+  "id": 113536280,
+  "created_at": "2026-03-02T15:15:08.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["gurobi"]
+}
