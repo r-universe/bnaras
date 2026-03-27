@@ -5,3 +5,9 @@
 [submodule "gurobi"]
 	path = gurobi
 	url = https://github.com/bnaras/gurobi
+[submodule "scip"]
+	path = scip
+	url = https://github.com/bnaras/scip
+[submodule "xpress"]
+	path = xpress
+	url = https://github.com/bnaras/xpress
