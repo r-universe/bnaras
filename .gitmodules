@@ -5,6 +5,9 @@
 [submodule "gurobi"]
 	path = gurobi
 	url = https://github.com/bnaras/gurobi
+[submodule "ipopt"]
+	path = ipopt
+	url = https://github.com/bnaras/ipopt
 [submodule "scip"]
 	path = scip
 	url = https://github.com/bnaras/scip
