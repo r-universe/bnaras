@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/bnaras/bnaras.r-universe.dev
 	branch = HEAD
+[submodule "Uno"]
+	path = Uno
+	url = https://github.com/bnaras/Uno
 [submodule "gurobi"]
 	path = gurobi
 	url = https://github.com/bnaras/gurobi
