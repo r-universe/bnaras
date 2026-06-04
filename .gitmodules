@@ -5,12 +5,18 @@
 [submodule "Uno"]
 	path = Uno
 	url = https://github.com/bnaras/Uno
+[submodule "diffcp"]
+	path = diffcp
+	url = https://github.com/bnaras/diffcp
 [submodule "gurobi"]
 	path = gurobi
 	url = https://github.com/bnaras/gurobi
 [submodule "scip"]
 	path = scip
 	url = https://github.com/bnaras/scip
+[submodule "sparsediff"]
+	path = sparsediff
+	url = https://github.com/bnaras/sparsediff
 [submodule "xpress"]
 	path = xpress
 	url = https://github.com/bnaras/xpress
