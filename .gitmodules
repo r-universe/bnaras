@@ -11,6 +11,9 @@
 [submodule "gurobi"]
 	path = gurobi
 	url = https://github.com/bnaras/gurobi
+[submodule "openfhe"]
+	path = openfhe
+	url = https://github.com/bnaras/openfhe
 [submodule "scip"]
 	path = scip
 	url = https://github.com/bnaras/scip
