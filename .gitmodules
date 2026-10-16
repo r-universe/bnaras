@@ -2,18 +2,79 @@
 	path = .registry
 	url = https://github.com/bnaras/bnaras.r-universe.dev
 	branch = HEAD
+[submodule "ASSISTant"]
+	path = ASSISTant
+	url = https://github.com/bnaras/ASSISTant
+[submodule "ECOSolveR"]
+	path = ECOSolveR
+	url = https://github.com/bnaras/ECOSolveR
+[submodule "PMA"]
+	path = PMA
+	url = https://github.com/bnaras/PMA
+[submodule "SBCpip"]
+	path = SBCpip
+	url = https://github.com/bnaras/SBCpip
 [submodule "Uno"]
 	path = Uno
 	url = https://github.com/bnaras/Uno
+[submodule "banditpam"]
+	path = banditpam
+	url = https://github.com/motiwari/BanditPAM
+	subdir = R_package/banditpam
+[submodule "bcaboot"]
+	path = bcaboot
+	url = https://github.com/bnaras/bcaboot
+[submodule "clarabel"]
+	path = clarabel
+	url = https://github.com/oxfordcontrol/clarabel-r
+[submodule "conTree"]
+	path = conTree
+	url = https://github.com/bnaras/conTree
+[submodule "cubature"]
+	path = cubature
+	url = https://github.com/bnaras/cubature
+[submodule "deconvolveR"]
+	path = deconvolveR
+	url = https://github.com/bnaras/deconvolveR
 [submodule "diffcp"]
 	path = diffcp
 	url = https://github.com/bnaras/diffcp
+[submodule "distcomp"]
+	path = distcomp
+	url = https://github.com/bnaras/distcomp
 [submodule "gurobi"]
 	path = gurobi
 	url = https://github.com/bnaras/gurobi
+[submodule "homomorpheR"]
+	path = homomorpheR
+	url = https://github.com/bnaras/homomorpheR
+[submodule "ipopt"]
+	path = ipopt
+	url = https://github.com/bnaras/ipopt
+[submodule "locfdr"]
+	path = locfdr
+	url = https://github.com/bnaras/locfdr
+[submodule "openfhe.R"]
+	path = openfhe.R
+	url = https://github.com/openfheorg/openfhe.R
+[submodule "osqp"]
+	path = osqp
+	url = https://github.com/osqp/osqp-r
+[submodule "pamr"]
+	path = pamr
+	url = https://github.com/bnaras/pamr
+[submodule "piqp"]
+	path = piqp
+	url = https://github.com/PREDICT-EPFL/piqp-r
 [submodule "scip"]
 	path = scip
 	url = https://github.com/bnaras/scip
+[submodule "sglr"]
+	path = sglr
+	url = https://github.com/bnaras/sglr
+[submodule "sp23design"]
+	path = sp23design
+	url = https://github.com/bnaras/sp23design
 [submodule "sparsediff"]
 	path = sparsediff
 	url = https://github.com/bnaras/sparsediff
